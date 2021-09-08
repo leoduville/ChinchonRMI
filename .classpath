@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/leo_2/Downloads/org.eclipse.wb.swing.MigLayout.lib_1.1.0.r37x201109091143.jar"/>
+	<classpathentry kind="lib" path="C:/Users/leo_2/Downloads/miglayout-core-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/leo_2/Downloads/miglayout-swing-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/leo_2/Downloads/LibreriaRMIMVC.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
